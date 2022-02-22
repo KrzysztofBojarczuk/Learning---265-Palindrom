@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b1zxNLlGk1gJyTKi+uHq3OmrLPCGDYCizOk25Ufb2xUwnwOC6hCEsZ9IEE3yYII66bNul058iHjAuU9rUnAF/g==",
+  "dgSpecHash": "d9hKyJCDG9bG8MICEvvgDl4/5L1mCg6WO1HBf+OiYqROT0U7j1PpslLAtn20CYzYFMKaYEUyN66EfbZxxTDiTg==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Git\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "E:\\Projects\\Git\\LearningGit\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
